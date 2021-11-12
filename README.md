@@ -1,1 +1,2 @@
-# Sorting Algorithms for Beginners
+# Sorting Algorithms for Integers Arrays
+We implement 3 sorting algorithms for integer arrays.
